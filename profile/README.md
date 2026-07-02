@@ -8,6 +8,7 @@
 
 [🌍 Sito ufficiale](https://djpallets.github.io/) •
 [📦 Community Edition](https://github.com/djpallets/community) •
+[🏢 Businness Edition](https://github.com/djpallets/businness) •
 [⬇️ Download](https://djpallets.github.io/download)
 
 </div>
@@ -34,11 +35,11 @@ La versione gratuita e open source di Pallets.
 
 ---
 
-### Business Edition *(Coming Soon)*
+### Business Edition
 
 Una versione dedicata a team e aziende che necessitano di funzionalità aggiuntive.
 
-Repository: https://github.com/djpallets/businnes
+Repository: https://github.com/djpallets/businness
 
 ---
 
